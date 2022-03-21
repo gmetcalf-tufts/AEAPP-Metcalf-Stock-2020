@@ -1,5 +1,6 @@
-# AEAPP-Metcalf-Stock-2020
-Data and code for: Measuring the Macroeconomic Impact of Carbon Taxes
+# AEAPP-Metcalf-Stock-2020 
+## [Measuring the Macroeconomic Impact of Carbon Taxes](https://www.aeaweb.org/articles?id=10.1257/pandp.20201081)
+Data and code for: Metcalf, Gilbert E., and James H. Stock. 2020. "Measuring the Macroeconomic Impact of Carbon Taxes." AEA Papers and Proceedings, 110: 101-06.
 ### Overview
 The code in this replication package constructs the tables and figures using Stata. The master file runs all of the code to generate two tables and two appendix figures.
 ### Description of files and code:
