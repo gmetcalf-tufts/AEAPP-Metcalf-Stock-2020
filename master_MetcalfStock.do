@@ -9,8 +9,6 @@
 * Description: Replicates the results for the Metcalf Stock (2020) AEAPP paper
 ********************************************************************************/
 *** SET DIRECTORY HERE:
-*local root "C:/Users/`c(username)'//Dropbox/Metcalf_Stock/stata/_Siddhi/AEA PandP Data Construction and Replication/Replication_AEAP" //for windows
-*local root "/Users//`=c(username)'/Dropbox/Metcalf_Stock/stata/_Siddhi/AEA PandP Data Construction and Replication/Replication_AEAPP" //for mac
 local root "C:/Users/`c(username)'//Dropbox/Metcalf_Stock/AER PP Submission Materials/Metcalf Stock Data Replication Public Folder"
 cd "`root'"
 clear all
